@@ -86,7 +86,7 @@ This is a web-based application designed to help students and parents explore su
 - **Difficulty Level:** Medium  
 - **University:** Assam Down Town University  
 - **Student:** Bungpurlu Basumatary  
-- **Course:** BTech CTIS – 3rd Semester  
+- **Course:** BTech CTIS – 4rd Semester  
 
 ---
 
